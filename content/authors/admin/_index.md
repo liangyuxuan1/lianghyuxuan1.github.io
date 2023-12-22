@@ -3,7 +3,7 @@
 title: Yuxuan Liang
 
 # Name pronunciation (optional)
-name_pronunciation: Yuxuan Liang
+# name_pronunciation: Yuxuan Liang
 
 # Full name (for SEO)
 first_name: Yuxuan

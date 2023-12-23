@@ -117,7 +117,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student at the Department of Biomedical Engineering, Rensselaer Polytechnic Institute (RPI), USA, co-advised by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and [Dr. Pingkun Yan](https://faculty.rpi.edu/pingkun-yan). My research interests include medical image analysis, deep learning, and network interpretabilityr. Previously, OI obtained my B.Sc. in Optical Engineering from the University of Science and Technology of China. In my undergraduate studies, I focused on wavefront modulation methods.
+I am a Ph.D. student at the Department of Biomedical Engineering, Rensselaer Polytechnic Institute (RPI), USA, co-advised by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and [Dr. Pingkun Yan](https://faculty.rpi.edu/pingkun-yan). My research interests include medical image analysis, deep learning, and network interpretabilityr. Previously, I obtained my B.Sc. in Optical Engineering from the University of Science and Technology of China. In my undergraduate studies, I focused on wavefront modulation methods.
 
 
 {style="text-align: justify;"}

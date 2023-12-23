@@ -17,34 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Biomedical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rensselaer Polytechnic Institute
+    url: https://www.rpi.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include medical image analysis, deep learning, and network interpretability.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical image analysis
+  - Deep learning
+  - Network interpretability
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. Student in Biomedical Engineering
+      institution: Rensselaer Polytechnic Institute
+      year: 2022-
+    - course: B.Sc. in Optical Engineering
+      institution: University of Science and Technology of China
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,31 +53,31 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Matlab
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Pytorch
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Football
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Cats
         description: ''
-        percent: 100
+        percent: 60
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Music
         description: ''
         percent: 80
         icon: camera-retro
@@ -100,12 +97,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/liangyuxuan1
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +117,7 @@ social:
 highlight_name: true
 ---
 
-Yuxuan Liang is a Ph.D. student of biomedical engnineering at the Rensselaer Polytechnic Institute (RPI). His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student at the Department of Biomedical Engineering, Rensselaer Polytechnic Institute (RPI), USA, co-advised by [Dr. Ge Wang](https://faculty.rpi.edu/ge-wang) and [Dr. Pingkun Yan](https://faculty.rpi.edu/pingkun-yan). My research interests include medical image analysis, deep learning, and network interpretabilityr. Previously, OI obtained my B.Sc. in Optical Engineering from the University of Science and Technology of China. In my undergraduate studies, I focused on wavefront modulation methods.
+
+
 {style="text-align: justify;"}

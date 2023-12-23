@@ -179,7 +179,7 @@ sections:
     design:
       columns: '2'
       view: citation
-    - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects

@@ -13,7 +13,7 @@ image:
   caption: ''
   focal_point: Smart
 
-links:
+# links:
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow

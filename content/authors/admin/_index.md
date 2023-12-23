@@ -38,7 +38,7 @@ education:
   courses:
     - course: Ph.D. Student in Biomedical Engineering
       institution: Rensselaer Polytechnic Institute
-      year: 2022-
+      year: 2022-present
     - course: B.Sc. in Optical Engineering
       institution: University of Science and Technology of China
       year: 2022

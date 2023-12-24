@@ -117,7 +117,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student at the [Department of Biomedical Engineering](https://bme.rpi.edu/), [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/), USA, co-advised by [Prof. Ge Wang](https://faculty.rpi.edu/ge-wang) and [Dr. Pingkun Yan](https://faculty.rpi.edu/pingkun-yan) at the [Biomedical Imaging Center](https://biotech.rpi.edu/biomedical-imaging-center). My research interests include medical image analysis, deep learning, and network interpretability. Previously, I obtained my B.Sc. in Optical Engineering from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn). In my undergraduate studies, I focused on wavefront modulation methods, under the supervision of [Prof. Xiaoye Xu](https://faculty.ustc.edu.cn/xuxiaoye).
+I am a Ph.D. student at the [Department of Biomedical Engineering](https://bme.rpi.edu/), [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/), USA, co-advised by [Prof. Ge Wang](https://faculty.rpi.edu/ge-wang) and [Prof. Pingkun Yan](https://faculty.rpi.edu/pingkun-yan) at the [Biomedical Imaging Center](https://biotech.rpi.edu/biomedical-imaging-center). My research interests include medical image analysis, deep learning, and network interpretability. Previously, I obtained my B.Sc. in Optical Engineering from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn). In my undergraduate studies, I focused on wavefront modulation methods, under the supervision of [Prof. Xiaoye Xu](https://faculty.ustc.edu.cn/xuxiaoye).
 
 
 {style="text-align: justify;"}

@@ -3,7 +3,7 @@ title: Flipover outperforms dropout in deep learning
 authors:
 - Yuxuan Liang
 - Chuang Niu
-- and Pingkun Yan
+- Pingkun Yan
 - Ge Wang
 date: '2024-02-01'
 publishDate: '2024-02-25T10:06:58.310907Z'

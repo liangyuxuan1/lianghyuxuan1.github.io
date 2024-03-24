@@ -99,7 +99,7 @@ social:
   #     header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=N9I6R6YAAAAJ&hl
+    link: https://scholar.google.com/citations?user=N9I6R6YAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
     link: https://github.com/liangyuxuan1

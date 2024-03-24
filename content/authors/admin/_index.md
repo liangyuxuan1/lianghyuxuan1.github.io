@@ -25,10 +25,12 @@ organizations:
     url: https://www.rpi.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include medical image analysis, deep learning, and network interpretability.
+bio: My research interests include medical physics, medical imaging, medical image analysis, deep learning, and network interpretability.
 
 # Interests to show in About widget
 interests:
+  - Medical physics
+  - Medical imaging
   - Medical image analysis
   - Deep learning
   - Network interpretability

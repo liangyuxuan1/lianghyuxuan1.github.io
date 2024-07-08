@@ -35,4 +35,17 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2950162824000377
+
+
+# Display this page in the Featured widget?
+featured: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+
 ---
